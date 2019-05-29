@@ -1,0 +1,20 @@
+Design Studio Path setup:
+
+Under Basic Folder: 
+1) Path of the Basic Folder (i.e. D:\FLP\TAFJ\samples\basic\Anitha)
+
+
+Under Insert Folder:
+1) Path of t24lib (i.e. D:\FLP\bnk\jars\t24lib)
+2) Path of t24inserts (i.e. D:\FLP\bnk\jars\t24inserts)
+3) Path of com (i.e. D:\FLP\TAFJ\data\tafj\classes\com)
+
+Under JARs Folder:
+1) Path of t24lib (i.e. D:\FLP\bnk\jars\t24lib)
+2) Path of lib (i.e. D:\FLP\bnk\jars\lib)
+3) Path of toollib (i.e. D:\FLP\bnk\jars\toollib)
+4) Path of t24 (i.e. D:FLP\TAFJ\data\tafj\classes\com\temenos\t24)
+
+Under Advanced:
+1) Path of java (i.e. D:\FLP\TAFJ\data\tafj\java)
+2) Path of classes (i.e. D:\FLP\TAFJ\data\tafj\classes)
